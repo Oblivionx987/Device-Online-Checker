@@ -1,0 +1,65 @@
+﻿[
+    {
+        "Name":  "SNC49844",
+        "Address":  "SNC49844",
+        "Ticket":  "",
+        "Status":  "Online",
+        "ConsecutiveFailures":  0,
+        "Interval":  60,
+        "LastPingTime":  "2026-05-08 08:52:39"
+    },
+    {
+        "Name":  "SNC400446",
+        "Address":  "SNC400446",
+        "Ticket":  "AccountDisabled1",
+        "Status":  "Online",
+        "ConsecutiveFailures":  1,
+        "Interval":  60,
+        "LastPingTime":  "2026-05-08 08:52:40"
+    },
+    {
+        "Name":  "SNCCE02366",
+        "Address":  "SNCCE02366",
+        "Ticket":  "AccountDisabled2",
+        "Status":  "Online",
+        "ConsecutiveFailures":  1,
+        "Interval":  30,
+        "LastPingTime":  "2026-05-08 08:52:40"
+    },
+    {
+        "Name":  "SNC64713",
+        "Address":  "SNC64713",
+        "Ticket":  "AccountDisabled3",
+        "Status":  "Online",
+        "ConsecutiveFailures":  0,
+        "Interval":  60,
+        "LastPingTime":  "2026-05-08 08:52:40"
+    },
+    {
+        "Name":  "SNCCE03392",
+        "Address":  "SNCCE03392",
+        "Ticket":  "AccountDisabled4",
+        "Status":  "Online",
+        "ConsecutiveFailures":  1,
+        "Interval":  60,
+        "LastPingTime":  "2026-05-08 08:52:40"
+    },
+    {
+        "Name":  "SNC68824",
+        "Address":  "SNC68824",
+        "Ticket":  "AccountDisabled5",
+        "Status":  "Online",
+        "ConsecutiveFailures":  0,
+        "Interval":  60,
+        "LastPingTime":  ""
+    },
+    {
+        "Name":  "SNC400458",
+        "Address":  "SNC400458",
+        "Ticket":  "AccountDisabled6",
+        "Status":  "Online",
+        "ConsecutiveFailures":  0,
+        "Interval":  60,
+        "LastPingTime":  ""
+    }
+]
